@@ -1,4 +1,4 @@
 # Algorithm
 * BackJoon
-* programmers
+* rogrammers
 * 이것이 코딩테스트다.
